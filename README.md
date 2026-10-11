@@ -7,8 +7,8 @@ It will contain a set of nodes both managed and unmanaged that will perform diff
 **NOTE:** Due to the present-day financial constraints and other FinOps concerns regarding the AWS Free Tier, the content in this repository **will remain untested** until this situation can be reverted, in which case it will undergo an exhaustive refactoring process that turns it into a live demo.
 
 ---
-This repository is for educational and authorized security auditing purposes only. All testing should be conducted in isolated, self-hosted, or explicitly permitted environments. The author assumes no liability for misuse.
+**This repository is for educational and authorized security auditing purposes only. All testing should be conducted in isolated, self-hosted, or explicitly permitted environments. The author assumes no liability for misuse.**
 
-Unless otherwise indicated at the root NOTICE file, all the information submitted to this repository is protected under Creative Commons Universal 1.0 (CC0-v1.0) license and is free to consult, copy, distribute and transform with no permission nor attribution required.
+**Unless otherwise indicated at the root NOTICE file, all the information submitted to this repository is protected under a MIT educational license and is free to consult, copy, distribute and transform with no permission nor attribution required.**
 
 _If you gaze unto the Rift, the Rift gazes back unto you._
