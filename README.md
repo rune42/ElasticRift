@@ -1,6 +1,6 @@
 # ElasticRift
 
-ElasticRift is a capstone _Proof-of-Concept_ that consists on a Terraform-based, AWS-centric CI/CD deployment that will analyze and dissect the impact of the [CVE-2026-42945](https://nvd.nist.gov/vuln/detail/cve-2026-42945) (referencing needed) vulnerability and others associated to it, which will be collectively referred to as **NGINX Rift** from now on.
+ElasticRift is a capstone _Proof-of-Concept_ that consists on a Terraform-based, AWS-centric CI/CD deployment that will analyze and dissect the impact of the [CVE-2026-42945](https://nvd.nist.gov/vuln/detail/cve-2026-42945) vulnerability and others associated to it, which will be collectively referred to as **NGINX Rift** from now on.
 
 It will contain a set of nodes both managed and unmanaged that will perform different functions and make this environment operationally simple and yet as close enough to a well-architected production-grade infrastructure as it can get, with the exception of vulnerable NGINX server containers. 
 
