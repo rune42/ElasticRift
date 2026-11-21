@@ -23,9 +23,8 @@ ElasticRift is a Terraform-based AWS security research PoC targeting a controlle
 
 ### Current Limitations
 
-Due to financial constraints, no AWS infrastructure has been deployed or tested. The current Terraform configuration is a draft and must undergo static review, validation, and integration testing when resources become available.
+Due to financial constraints, no AWS infrastructure will be deployed or tested. However, for unit testing and integration purposes, local cloud emulation through tools like LocalStack will be employed until a sandbox AWS environment can be provisioned.
 
-This CVE identifier may not be the most adequate one for the intended threat model, so it will remain a provisional source subject to further research. The project's overall architecture will not be affected by this contingency.
 
 ### Milestones
 
